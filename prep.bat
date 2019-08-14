@@ -1,0 +1,1 @@
+C:\Users\Administrator\AppData\Local\Android\Sdk\emulator\emulator -avd Nexus_5x_API_28_x86 -no-snapshot-save

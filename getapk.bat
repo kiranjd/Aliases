@@ -1,0 +1,1 @@
+cd android && gradlew assemblerelease && cd app\build\outputs\apk\release && start .
